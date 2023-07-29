@@ -335,10 +335,10 @@ MonoBehaviour:
   m_ChildAlignment: 1
   m_StartCorner: 0
   m_StartAxis: 0
-  m_CellSize: {x: 403.1, y: 278.2}
+  m_CellSize: {x: 945.5, y: 146.1}
   m_Spacing: {x: 84.1, y: 46.4}
   m_Constraint: 1
-  m_ConstraintCount: 2
+  m_ConstraintCount: 1
 --- !u!1 &1036063007109448151
 GameObject:
   m_ObjectHideFlags: 0
@@ -465,8 +465,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4282550763
-  m_fontColor: {r: 0.9215687, g: 0.5372549, b: 0.25882354, a: 1}
+    rgba: 4278190080
+  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:

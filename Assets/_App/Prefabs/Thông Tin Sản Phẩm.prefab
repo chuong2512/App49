@@ -135,8 +135,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: -391.80292}
-  m_SizeDelta: {x: 0, y: -1130.1533}
+  m_AnchoredPosition: {x: 0, y: -450.83643}
+  m_SizeDelta: {x: 0, y: -1248.2202}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &5985530318421008291
 CanvasRenderer:
@@ -456,7 +456,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 1212.9}
+  m_SizeDelta: {x: 0, y: 738.29}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!222 &5985530319121382769
 CanvasRenderer:
@@ -486,31 +486,16 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "R\u01B0\u1EE3u vang \u0111\u1ECF \u2013 th\u1EE9c u\u1ED1ng c\xF3 l\u1EE3i
-    cho s\u1EE9c kh\u1ECFe\nNhi\u1EC1u nghi\xEAn c\u1EE9u \u0111\xE3 ch\u1EC9 ra
-    r\u1EB1ng r\u01B0\u1EE3u vang \u0111\u1ECF mang l\u1EA1i nhi\u1EC1u l\u1EE3i
-    \xEDch tuy\u1EC7t  v\u1EDDi cho s\u1EE9c kh\u1ECFe n\u1EBFu \u0111\u01B0\u1EE3c
-    u\u1ED1ng v\u1EDBi m\u1ED9t l\u01B0\u1EE3ng v\u1EEBa \u0111\u1EE7 k\u1EBFt h\u1EE3p
-    c\xF9ng ch\u1EBF \u0111\u1ED9 \u0103n u\u1ED1ng nhi\u1EC1u rau c\u1EE7, tr\xE1i
-    c\xE2y. V\u1EDBi l\u1ECBch s\u1EED ph\xE1t tri\u1EC3n l\xE2u \u0111\u1EDDi v\xE0
-    h\u01B0\u01A1ng v\u1ECB th\u01A1m ngon, r\u01B0\u1EE3u vang \u0111\u1ECF \u0111\xE3
-    tr\u1EDF th\xE0nh m\u1ED9t th\u1EE9c u\u1ED1ng \u0111\u01B0\u1EE3c y\xEAu th\xEDch
-    tr\xEAn kh\u1EAFp th\u1EBF gi\u1EDBi. C\xF2n g\xEC tuy\u1EC7t v\u1EDDi h\u01A1n
-    khi m\u1ED9t th\u1EE9c u\u1ED1ng ngon l\u1EA1i c\xF3 l\u1EE3i cho s\u1EE9c kh\u1ECFe.
-    H\xE3y c\xF9ng WINECELLAR.vn kh\xE1m ph\xE1 nh\u1EEFng l\u1EE3i \xEDch m\xE0
-    r\u01B0\u1EE3u vang \u0111\u1ECF mang l\u1EA1i nh\xE9!\nGi\u1EA3m nguy c\u01A1
-    m\u1EAFc ung th\u01B0\nC\xE1c ch\u1EA5t ch\u1ED1ng oxy h\xF3a c\xF3 trong r\u01B0\u1EE3u
-    vang \u0111\u1ECF c\xF3 t\xEDnh ch\u1ED1ng ung th\u01B0 v\xE0 c\xF3 t\xE1c d\u1EE5ng
-    b\u1EA3o v\u1EC7 tim. C\xE1c ch\u1EA5t \u1EE9c ch\u1EBF aromatase l\xE0m gi\u1EA3m
-    n\u1ED3ng \u0111\u1ED9 estrogen, t\u0103ng testosterone, g\xF3p ph\u1EA7n gi\u1EA3m
-    nguy c\u01A1 m\u1EAFc b\u1EC7nh ung th\u01B0 v\xFA \u1EDF ph\u1EE5 n\u1EEF. Th\xE0nh
-    ph\u1EA7n resveratrol c\xF3 trong r\u01B0\u1EE3u vang \u0111\u1ECF c\xF3 t\xE1c
-    d\u1EE5ng ph\xF2ng ng\u1EEBa b\u1EC7nh ung th\u01B0 ph\u1ED5i v\xE0 tuy\u1EBFn
-    ti\u1EC1n li\u1EC7t.\nGi\u1EA3m nguy c\u01A1 m\u1EAFc b\u1EC7nh m\u1EA5t tr\xED
-    nh\u1EDB\nM\u1ED9t s\u1ED1 nghi\xEAn c\u1EE9u \u0111\xE3 ch\u1EC9 ra r\u1EB1ng
-    u\u1ED1ng r\u01B0\u1EE3u vang \u0111\u1ECF \u0111i\u1EC1u \u0111\u1ED9 c\xF3
-    th\u1EC3 l\xE0m ch\u1EADm qu\xE1 tr\xECnh suy gi\u1EA3m tr\xED nh\u1EDB do tu\u1ED5i
-    t\xE1c. Resveratrol c\xF3 trong r\u01B0\u1EE3u vang \u0111\u1ECF "
+  m_text: "Cam k\u1EBFt ch\u1EA5t l\u01B0\u1EE3ng d\u1ECBch v\u1EE5 d\u1ECDn nh\xE0
+    t\u1EA1i DonNha\r\n\u2013 L\xE0m s\u1EA1ch t\u1EADn t\xE2m: DonNha mang \u0111\u1EBFn
+    d\u1ECBch v\u1EE5 v\u1EC7 sinh ho\xE0n thi\u1EC7n nh\u1EA5t, t\u1EF1 tin l\xE0m
+    h\xE0i l\xF2ng kh\xE1ch h\xE0ng kh\xF3 t\xEDnh nh\u1EA5t.\r\n\r\n\u2013 B\u1EA3o
+    h\xE0nh 7 ng\xE0y sau khi v\u1EC7 sinh\r\n\r\n\u2013 \u0110\u1ED9i ng\u0169 th\u1EE3
+    l\xE0nh ngh\u1EC1, th\xE2n thi\u1EC7n v\u1EDBi kh\xE1ch h\xE0ng\r\n\r\n\u2013
+    Quy tr\xECnh l\xE0m s\u1EA1ch hi\u1EC7n \u0111\u1EA1i nh\u1EA5t, gi\xE1 c\u1EA3
+    minh b\u1EA1ch v\u1EDBi nhi\u1EC1u \u01B0u \u0111\xE3i th\u01B0\u1EDDng xuy\xEAn
+    cho kh\xE1ch c\u0169\r\n\r\n\u2013 Dung d\u1ECBch nh\u1EADp kh\u1EA9u 100%, an
+    to\xE0n v\u1EDBi c\u1EA3 tr\u1EBB nh\u1ECF."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 661062368b9d93d4eb177222cdd54f5a, type: 2}
   m_sharedMaterial: {fileID: -3552317276621379475, guid: 661062368b9d93d4eb177222cdd54f5a, type: 2}
@@ -753,7 +738,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3595332343965661355, guid: fdda93db48aa6bb4d82c8efec6d4723c, type: 3}
       propertyPath: m_AnchorMax.x
-      value: 0
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 3595332343965661355, guid: fdda93db48aa6bb4d82c8efec6d4723c, type: 3}
       propertyPath: m_AnchorMax.y
@@ -761,7 +746,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3595332343965661355, guid: fdda93db48aa6bb4d82c8efec6d4723c, type: 3}
       propertyPath: m_AnchorMin.x
-      value: 0
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 3595332343965661355, guid: fdda93db48aa6bb4d82c8efec6d4723c, type: 3}
       propertyPath: m_AnchorMin.y
@@ -769,11 +754,23 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3595332343965661355, guid: fdda93db48aa6bb4d82c8efec6d4723c, type: 3}
       propertyPath: m_SizeDelta.x
-      value: 722.2098
+      value: 722.2097
       objectReference: {fileID: 0}
     - target: {fileID: 3595332343965661355, guid: fdda93db48aa6bb4d82c8efec6d4723c, type: 3}
       propertyPath: m_SizeDelta.y
       value: 668.9515
+      objectReference: {fileID: 0}
+    - target: {fileID: 3595332343965661355, guid: fdda93db48aa6bb4d82c8efec6d4723c, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.5744
+      objectReference: {fileID: 0}
+    - target: {fileID: 3595332343965661355, guid: fdda93db48aa6bb4d82c8efec6d4723c, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.5744
+      objectReference: {fileID: 0}
+    - target: {fileID: 3595332343965661355, guid: fdda93db48aa6bb4d82c8efec6d4723c, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.5744
       objectReference: {fileID: 0}
     - target: {fileID: 3595332343965661355, guid: fdda93db48aa6bb4d82c8efec6d4723c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -805,11 +802,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3595332343965661355, guid: fdda93db48aa6bb4d82c8efec6d4723c, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 511
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3595332343965661355, guid: fdda93db48aa6bb4d82c8efec6d4723c, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -622.3992
+      value: -854
       objectReference: {fileID: 0}
     - target: {fileID: 3595332343965661355, guid: fdda93db48aa6bb4d82c8efec6d4723c, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
